@@ -1,0 +1,16 @@
+Pos;Ref;Alt;RefReadsForward;RefReadsReverse;AltReadsForward;AltReadsReverse;Gene;CodonPosition;Comment
+3947;A;T;758;866;13;11;ND5;1;T-rich gene
+3959;A;T;651;892;73;1;ND5;1;T-rich gene
+5233;A;T;590;446;145;1;ND5;3;T-rich gene
+5259;C;T;635;470;95;2;ND5;2;T-rich gene
+5605;C;T;777;334;45;5;non-coding;0;
+5733;A;T;325;288;84;15;non-coding;0;
+5884;G;A;749;799;23;22;tRNA-Val;0;
+6159;A;T;773;817;9;2;ND6;1;T-rich gene
+6162;A;T;793;824;9;2;ND6;1;T-rich gene
+6166;A;T;785;795;22;6;ND6;2;T-rich gene
+10126;A;T;199;35;4;2;non-coding;0;
+10130;A;T;164;28;14;6;non-coding;0;
+10160;A;T;166;12;12;6;non-coding;0;
+13379;C;T;649;506;90;1;ND4;2;T-rich region
+13390;A;T;691;538;70;1;ND4;1;

@@ -1,0 +1,137 @@
+1;Cylicocyclus ashworthi;Animal Parasitic
+2;Cylicocyclus radiatus;Animal Parasitic
+3;Cylicocyclus nassatus;Animal Parasitic
+4;Cylicocyclus insigne;Animal Parasitic
+5;Cylicocyclus auriculatus;
+6;Cyathostomum pateratum;Animal Parasitic
+7;Cyathostomum catinatum;Animal Parasitic
+8;Cylicodontophorus bicoronatus;Animal Parasitic
+9;Cylicostephanus minutus;
+10;Triodontophorus serratus;Animal Parasitic
+11;Triodontophorus brevicauda;Animal Parasitic
+12;Triodontophorus nipponicus;Animal Parasitic
+13;Poteriostomum imparidentatum;Animal Parasitic
+14;Strongylus equinus;Animal Parasitic
+15;Strongylus vulgaris;Animal Parasitic
+16;Oesophagostomum quadrispinulatum;Animal Parasitic
+17;Oesophagostomum dentatum;Animal Parasitic
+18;Oesophagostomum columbianum;Animal Parasitic
+19;Chabertia erschowi;
+20;Chabertia ovina;Animal Parasitic
+21;Oesophagostomum asperum;Animal Parasitic
+22;Hypodontus macropi;Animal Parasitic
+23;Macropicola ocydromi;Animal Parasitic
+24;Ancylostoma tubaeforme;Animal Parasitic
+25;Ancylostoma duodenale;Human Parasitic
+26;Ancylostoma caninum;Animal Parasitic
+27;Ancylostoma ceylanicum;Human Parasitic
+28;Uncinaria sanguinis;Animal Parasitic
+29;Bunostomum phlebotomum;Animal Parasitic
+30;Bunostomum trigonocephalum;Animal Parasitic
+31;Necator americanus;Human Parasitic
+32;Syngamus trachea;Animal Parasitic
+33;Haemonchus placei;Animal Parasitic
+34;Haemonchus contortus;Animal Parasitic
+35;Mecistocirrus digitatus;Animal Parasitic
+36;Trichostrongylus axei;Animal Parasitic
+37;Trichostrongylus vitrinus;Animal Parasitic
+38;Cooperia oncophora;Animal Parasitic
+39;Marshallagia marshalli;Animal Parasitic
+40;Teladorsagia circumcincta;Animal Parasitic
+41;Nematodirus spathiger;Animal Parasitic
+42;Nematodirus oiratianus;Animal Parasitic
+43;Nippostrongylus brasiliensis;Animal Parasitic
+44;Angiostrongylus mackerrasae;Animal Parasitic
+45;Angiostrongylus cantonensis;Human Parasitic
+46;Angiostrongylus malaysiensis;Animal Parasitic
+47;Angiostrongylus costaricensis;Human Parasitic
+48;Aelurostrongylus abstrusus;Animal Parasitic
+49;Protostrongylus rufescens;Animal Parasitic
+50;Metastrongylus pudendotectus;Animal Parasitic
+51;Metastrongylus salmi;Animal Parasitic
+52;Parafilaroides normani;
+53;Dictyocaulus viviparus;Animal Parasitic
+54;Diploscapter coronatus;Free living
+55;Caenorhabditis tropicalis;Free living
+56;Caenorhabditis wallacei;Free living
+57;Caenorhabditis doughertyi;Free living
+58;Caenorhabditis brenneri;Free living
+59;Caenorhabditis elegans;Free living
+60;Caenorhabditis remanei;Free living
+61;Caenorhabditis nouraguensis;Free living
+62;Caenorhabditis macrosperma;Free living
+63;Caenorhabditis afra;Free living
+64;Caenorhabditis castelli;Free living
+65;Caenorhabditis angaria;Free living
+66;Caenorhabditis virilis ;Free living
+67;Caenorhabditis plicata;Free living
+68;Allodiplogaster sudhausi;Free living
+69;Pristionchus pacificus;Free living
+70;Heterorhabditis indica;Entomopathogenic
+71;Heterorhabditis bacteriophora;Entomopathogenic
+72;Pseudoterranova cattani;Animal Parasitic
+73;Pseudoterranova bulbosa;Animal Parasitic
+74;Pseudoterranova krabbei;Animal Parasitic
+75;Pseudoterranova decipiens;Animal Parasitic
+76;Pseudoterranova azarasi;Animal Parasitic
+77;Anisakis simplex;Animal Parasitic
+78;Anisakis pegreffii;Animal Parasitic
+79;Anisakis berlandi;
+80;Contracaecum ogmorhini;Animal Parasitic
+81;Contracaecum rudolphii;Animal Parasitic
+82;Contracaecum osculatum;Animal Parasitic
+83;Ascaris ovis;Animal Parasitic
+84;Ascaris lumbricoides;Human Parasitic
+85;Ascaris suum;Animal Parasitic
+86;Parascaris univalens;
+87;Parascaris equorum;Animal Parasitic
+88;Baylisascaris transfuga;Animal Parasitic
+89;Baylisascaris schroederi;Animal Parasitic
+90;Baylisascaris procyonis;Animal Parasitic
+91;Toxascaris leonina;
+92;Toxocara cati;
+93;Toxocara malaysiensis;
+94;Toxocara canis;Animal Parasitic
+95;Ortleppascaris sinensis;
+96;Heterakis gallinarum;
+97;Heterakis dispar;
+98;Heterakis beramporia;
+99;Ascaridia galli;Animal Parasitic
+100;Ascaridia columbae;Animal Parasitic
+101;Rhigonema thysanophora;
+102;Cucullanus robustus;Animal Parasitic
+103;Gnathostoma doloresi;
+104;Gnathostoma spinigerum;
+105;Gnathostoma nipponicum;
+106;Steinernema carpocapsae;Entomopathogenic
+107;Steinernema abbasi;
+108;Bursaphelenchus mucronatus;Plant Parasitic
+109;Bursaphelenchus xylophilus;Plant Parasitic
+110;Aphelenchoides besseyi;Plant Parasitic
+111;Halicephalobus mephisto;
+112;Strongyloides stercoralis;Human Parasitic
+113;Strongyloides ratti;Animal Parasitic
+114;Strongyloides venezuelensis;Animal Parasitic
+115;Onchocerca volvulus;Human Parasitic
+116;Onchocerca ochengi;Animal Parasitic
+117;Onchocerca lupi;
+118;Onchocerca flexuosa;Animal Parasitic
+119;Dirofilaria hongkongensis;Animal Parasitic
+120;Dirofilaria repens;
+121;Dirofilaria immitis;Animal Parasitic
+122;Brugia malayi;Human Parasitic
+123;Wuchereria bancrofti;Human Parasitic
+124;Chandlerella quiscali;Animal Parasitic
+125;Acanthocheilonema viteae;Animal Parasitic
+126;Setaria labiatopapillosa;
+127;Setaria digitata;
+128;Gongylonema pulchrum;Animal Parasitic
+129;Spirocerca lupi;
+130;Thelazia callipaeda;Human Parasitic
+131;Heliconema longissimum;
+132;Meloidogyne;Plant Parasitic
+133;Enterobius vermicularis;Human Parasitic
+134;Wellcomia siamensis;
+135;Camallanus cotti;Animal Parasitic
+136;Dracunculus medinensis;Human Parasitic
+137;Philometroides sanguineus;

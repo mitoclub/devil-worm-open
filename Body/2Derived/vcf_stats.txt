@@ -1,0 +1,25 @@
+Location                     : /home/emulciber/MitoClub/devil-worm/Body/1Raw/mutect2_mephisto_F_mito.vcf
+Failed Filters               : 0
+Passed Filters               : 64
+SNPs                         : 15
+MNPs                         : 0
+Insertions                   : 7
+Deletions                    : 11
+Indels                       : 31
+Same as reference            : 0
+Phased Genotypes             : 12.5% (8/64)
+Total Polyploid              : 33
+Polyploid SNPs               : 0
+Polyploid MNPs               : 0
+Polyploid Insertions         : 0
+Polyploid Deletions          : 2
+Polyploid Indels             : 31
+SNP Transitions/Transversions: 0.36 (4/11)
+Total Het/Hom ratio          : - (31/0)
+SNP Het/Hom ratio            : - (15/0)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (7/0)
+Deletion Het/Hom ratio       : - (9/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : 0.64 (7/11)
+Indel/SNP+MNP ratio          : 3.27 (49/15)
